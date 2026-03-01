@@ -1,5 +1,5 @@
-function math (firstArg, secondArg, thirdArg) {
-  return (secondArg * thirdArg) + firstArg;
-}
+const food = {
+  types: 'only pizza'
+};
 
-console.log(math(53, 61, 67));
+console.log(food.types);
